@@ -5,3 +5,4 @@
 ## Getting Started
 
 * [Installation](getting-started/installation.md)
+* [Authentication](getting-started/authentication.md)

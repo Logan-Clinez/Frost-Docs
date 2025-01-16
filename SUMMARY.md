@@ -6,3 +6,4 @@
 
 * [Installation](getting-started/installation.md)
 * [Authentication](getting-started/authentication.md)
+* [Logger](getting-started/logger.md)

@@ -17,30 +17,30 @@ Don't worry! Your GPORTAL credentials are not stored and are only accessible in 
 {% tabs %}
 {% tab title="TypeScript" %}
 ```typescript
-import { FrostyManager, LogLevel } from "frosty-bot";
+import { RCEManager, LogLevel } from "rce.js";
 
-const frosty = new FrostyManager();
-await frosty.init({
+const rce = new RCEManager();
+await rce.init({
     username: "", // Your GPORTAL email address
     password: "" // Your GPORTAL password
 }, {
     level: LogLevel.Info,
-    file: "frosty.log"
+    file: "rce.log"
 });
 ```
 {% endtab %}
 
 {% tab title="JavaScript" %}
 ```javascript
-const { FrostyManager, LogLevel } from "frosty-bot";
+const { RCEManager, LogLevel } = require("rce.js");
 
-const frosty = new FrostyManager();
-await frosty.init({
+const rce = new RCEManager();
+await rce.init({
     username: "", // Your GPORTAL email address
     password: "" // Your GPORTAL password
 }, {
     level: LogLevel.Info,
-    file: "frosty.log"
+    file: "rce.log"
 });
 ```
 {% endtab %}

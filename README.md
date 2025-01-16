@@ -1,5 +1,9 @@
 ---
 icon: hand-wave
+description: >-
+  RCE.JS is the first and long awaited NodeJS library to come for Rust Console
+  Edition servers, this is an amazing library to create your own applications
+  which interact with your RCE community server!
 cover: .gitbook/assets/image.png
 coverY: 0
 layout:
@@ -9,7 +13,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -20,11 +24,9 @@ layout:
 
 # Welcome
 
-Frost Bot is the first and long awaited NodeJS library to come for Rust Console Edition servers, this is an amazing library to create your own applications which interact with your RCE community server!
+## What can RCE.JS do? <a href="#what-can-rce.js-do" id="what-can-rce.js-do"></a>
 
-## What can Frosty Bot do?
-
-Frosty Bot gives you the ability to easily interact with G-PORTAL and read from the console as well as send commands to the console.
+RCE.JS gives you the ability to easily interact with G-PORTAL and read from the console as well as send commands to the console.
 
 This means you can utilize such features to create all sorts of things, like:
 

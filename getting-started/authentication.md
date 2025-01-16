@@ -1,8 +1,12 @@
+---
+description: >-
+  This library requires you to authenticate to G-PORTAL to interact with your
+  Rust Console community server(s), so this step is mandatory!
+---
+
 # Authentication
 
-This library requires you to authenticate to G-PORTAL to interact with your Rust Console community server(s), so this step is mandatory!
-
-{% hint style="warning" %}
+{% hint style="info" %}
 It is important to call the "init()" method after creating a new class instance as this is the method which processes the authentication and connects to G-PORTAL!
 {% endhint %}
 

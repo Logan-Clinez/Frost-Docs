@@ -34,6 +34,6 @@ This means you can utilize such features to create all sorts of things, like:
 
 And of course you can use your imagination as a developer and create new and unique features to Rust Console community servers, the possibilities are endless!
 
-### Community <a href="#community" id="community"></a>
+## Community <a href="#community" id="community"></a>
 
 You can join our support discord server at [https://discord.gg/Frost3X](https://discord.gg/Frost3X) where we also welcome suggestions to our library!

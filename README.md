@@ -1,7 +1,6 @@
 ---
 icon: hand-wave
-cover: >-
-  https://rcejs.gitbook.io/~gitbook/image?url=https%3A%2F%2F2226766932-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrbItbWV8muHUv2K5kfPB%252Fuploads%252FyivbigIYrVIMxmD6VAnO%252Frust-game-fvem7wo2c4nc4rfq.jpg%3Falt%3Dmedia%26token%3D88124efe-4dbe-4e2a-b1cf-35616926bc3d&width=1248&dpr=1&quality=100&sign=c25b849&sv=2
+cover: .gitbook/assets/image.png
 coverY: 0
 layout:
   cover:
